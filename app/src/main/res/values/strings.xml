@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyAddress</string>
+
+    <string name="text_mr">Mr</string>
+    <string name="text_ms">Ms</string>
+    <string name="text_mrs">Mrs</string>
+    <string name="text_dr">Dr</string>
+
+    <string name="fname">First Name:</string>
+    <string name="lname">Last Name:</string>
+    <string name="address">Address:</string>
+    <string name="country">Country:</string>
+    <string name="postal">Postal Code:</string>
+    <string name="province">Province:</string>
+    <string name="suffix">Title:</string>
+
+    <string name="submit">Submit</string>
+
+    <string-array name="province_array">
+        <item>Not applicable</item>
+        <item>Ontario</item>
+        <item>Quebec</item>
+        <item>Nova Scotia</item>
+        <item>New Brunswick</item>
+        <item>Manitoba</item>
+        <item>British Columbia</item>
+        <item>Prince Edward Island</item>
+        <item>Saskatchewan</item>
+        <item>Alberta</item>
+        <item>Newfoundland and Labrador</item>
+    </string-array>
+
+    <string name="about">About</string>
+    <string name="clear">Clear</string>
+
+    <string name="about_text">This app is about cool things. It is help user to fill form and helps someone with something. And so on, and so on.</string>
+
+
+
+</resources>

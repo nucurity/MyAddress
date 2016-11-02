@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Mon adresse</string>
+
+    <string name="text_mr">Mr</string>
+    <string name="text_ms">Ms</string>
+    <string name="text_mrs">Mrs</string>
+    <string name="text_dr">Dr</string>
+
+    <string name="fname">Prénom:</string>
+    <string name="lname">Famille:</string>
+    <string name="address">Adresse:</string>
+    <string name="country">Pays:</string>
+    <string name="postal">Code Postal:</string>
+    <string name="province">Province:</string>
+    <string name="suffix">Titre:</string>
+
+    <string name="submit">Soumettre</string>
+
+    <string-array name="province_array">
+        <item>Not applicable</item>
+        <item>Ontario</item>
+        <item>Quebec</item>
+        <item>Nova Scotia</item>
+        <item>New Brunswick</item>
+        <item>Manitoba</item>
+        <item>British Columbia</item>
+        <item>Prince Edward Island</item>
+        <item>Saskatchewan</item>
+        <item>Alberta</item>
+        <item>Newfoundland and Labrador</item>
+    </string-array>
+
+    <string name="about">About</string>
+    <string name="clear">Clear</string>
+
+
+
+</resources>
